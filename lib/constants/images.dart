@@ -1,0 +1,10 @@
+const String loginImage = 'assets/images/auth/login.svg';
+const String verifiedIcon = 'assets/images/auth/verified.svg';
+const String qrIcon = 'assets/images/dashboard/qr_icon.svg';
+const String settingsIcon = 'assets/images/dashboard/settings.svg';
+const String scanSuccessIcons = 'assets/images/dashboard/scan_success.svg';
+const String filterIcon = 'assets/images/dashboard/filter.svg';
+const String userIcon = 'assets/images/dashboard/user.svg';
+const String otherIcon = 'assets/images/dashboard/other.svg';
+const String logoutIcon = 'assets/images/dashboard/logout.svg';
+const String gif = 'assets/images/dashboard/new.gif';
